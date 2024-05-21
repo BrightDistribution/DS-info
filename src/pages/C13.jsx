@@ -1,5 +1,5 @@
 import React from 'react'
-import { Cp13, lineLogo } from '../assets'
+import {Cp14, lineLogo } from '../assets'
 import ButtonSm from '../components/ButtonSm'
 
 function C13() {
@@ -8,8 +8,8 @@ function C13() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La finalizarea configurarii, urmatorul ecran va fii afisat.</p>
-          <img src={Cp13} alt="Cp13" className='max-w-[360px] max-h-[500px]' />
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La finalizarea configurarii, urmatorul ecran va fii afisat si vom selecta optiunea "Player". In cazul in care acest ecran nu apare, mergeti catre pasul urmator</p>
+          <img src={Cp14} alt="Cp14" className='max-w-[360px] max-h-[500px]' />
         </header>
 
         <div className='flex flex-row'>

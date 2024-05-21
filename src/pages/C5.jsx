@@ -8,7 +8,7 @@ function C5() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pentru meniul de “Display Orientation” ,  daca avem optiunea vom alege “AUTO”, daca nu exista aceasta optiune alegem varianta potrivita pozitionarii ecranului</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-2">Pentru meniul de “Display Orientation” ,vom alege “AUTO”, daca nu exista aceasta optiune alegem varianta potrivita pozitionarii ecranului</p>
           <img src={Cp5} alt="Cp5" className='max-w-[360px] max-h-[500px]' />
         </header>
 

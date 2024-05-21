@@ -8,7 +8,7 @@ function C9() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Ecranul nostru ar trebui sa arate asa si sa  aibe datele de mai jos</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Ecranul nostru ar trebui sa arate asa si sa  aibe datele de mai jos. Apasam butonul "Next" pentru a trece la pasul urmator</p>
           <img src={Cp9} alt="Cp9" className='max-w-[360px] max-h-[500px]' />
         </header>
 

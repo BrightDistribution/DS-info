@@ -33,6 +33,7 @@ import Remote2 from './Remote2.jpg';
 import RemoteHome from './RemoteHome.jpg';
 import ArrowDown from './ArrowDown.svg';
 import InstalType from './InstalType.jpg';
+import set_time from './set_time.jpg';
 
 export {
     Cp1,
@@ -70,6 +71,7 @@ export {
     RemoteHome,
     ArrowDown,
     InstalType,
+    set_time,
 }
 
 

@@ -11,7 +11,8 @@ function C0() {
           <div className='flex justify-center xs:max-w-[320px] sm:max-w-[600px] lg:max-w-[1150px]'>Pentru Navigarea meniului vom folosi</div>
           <div className='text-red-600'>SAGETILE</div>
           <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]'>si pentru a selecta vom folosi tasta</div>
-          <div className='text-green-600 mb-[5px]'>ENTER</div>
+          <div className='text-green-600'>ENTER</div>
+          <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]  mb-[5px]'>Folositi butonul stanga sus pentru a porni ecranul.</div>
           <img src={Remote2} alt="Remote" className='max-w-[360px] max-h-[500px]' />
         </header>
 
