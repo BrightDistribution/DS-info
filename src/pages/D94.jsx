@@ -12,7 +12,7 @@ function D94() {
   function handleClick1(){
     setSelect("/D51");
     inputRef1.current.focus();
-    inputRef1.current.style.border = "2px solid #D3AC2B";
+    inputRef1.current.style.border = "3px solid #FFB74D";
     inputRef2.current.style.border = "";
     inputRef4.current.style.display = "block";
 
@@ -21,7 +21,7 @@ function D94() {
     setSelect("/D52");
     inputRef2.current.focus();
     inputRef1.current.style.border = "";
-    inputRef2.current.style.border = "2px solid #D3AC2B";
+    inputRef2.current.style.border = "3px solid #FFB74D";
     inputRef4.current.style.display = "block";
   }
 
@@ -38,7 +38,7 @@ function D94() {
         </header>
 
         <div className='flex flex-row mt-[50px]'>
-          <a href="/D3" className='flex justify-start'><ButtonSm text="Inapoi" disabled={select == null ? true : false}></ButtonSm></a>
+          <a href="/D93" className='flex justify-start'><ButtonSm text="Inapoi" disabled={select == null ? true : false}></ButtonSm></a>
           <a href={select} className={`ml-[40px] justify-end hidden`} ref={inputRef4} ><ButtonSm text="Inainte"></ButtonSm></a>
         </div>
         

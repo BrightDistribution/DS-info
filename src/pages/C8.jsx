@@ -7,8 +7,9 @@ function C8() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pasul 9</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Vom introduce adresa “ds4.dsaas.ro” si vom selecta butonul "Go" de pe tastatura aparuta pe ecran</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Stergeti adresa curenta si introduceti andresa “ds4.dsaas.ro”. Dupa introducere selectati butonul "Go" de pe tastatura aparuta pe ecran</p>
           <img src={Cp8} alt="Cp8" className='max-w-[360px] max-h-[500px]' />
         </header>
 

@@ -13,7 +13,7 @@ function D4() {
   function handleClick1(){
     setSelect("/D51");
     inputRef1.current.focus();
-    inputRef1.current.style.border = "2px solid #D3AC2B";
+    inputRef1.current.style.border = "3px solid #FFB74D";
     inputRef2.current.style.border = "";
     inputRef3.current.style.border = "";
     inputRef4.current.style.display = "block";
@@ -23,7 +23,7 @@ function D4() {
     setSelect("/D52");
     inputRef2.current.focus();
     inputRef1.current.style.border = "";
-    inputRef2.current.style.border = "2px solid #D3AC2B";
+    inputRef2.current.style.border = "3px solid #FFB74D";
     inputRef3.current.style.border = "";
     inputRef4.current.style.display = "block";
   }
@@ -32,7 +32,7 @@ function D4() {
     inputRef3.current.focus();
     inputRef1.current.style.border = "";
     inputRef2.current.style.border = "";
-    inputRef3.current.style.border = "2px solid #D3AC2B";
+    inputRef3.current.style.border = "3px solid #FFB74D";
     inputRef4.current.style.display = "block";
   }
 
@@ -41,6 +41,7 @@ function D4() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pasul 5</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Verificati mesajul din chenarul de pe ecran si selectati de mai jos varianta care se potriveste. Dupa selectare, apasati butonul de INAINTE.</p>
           <img src={NetworkStatus} alt="internet" onClick={handleClick1} ref={inputRef1} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />

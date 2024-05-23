@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import React from 'react'
-import {C0,C1,C2,C3,C4,C41,C5,C6,C7,C8,C9,C10,C11,C111,C12,C13,C14,C15,C16,C17,D1,D2,D22,D3,D4,D51,D52,D53,D61,D63,D73,D83,D93,D94,D7,D8,Home,Info} from './pages'
+import {C0,C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C111,C12,C13,C14,C15,C16,C17,D1,D2,D22,D3,D4,D51,D52,D53,D61,D63,D73,D83,D93,D94,D7,D8,Home,Info} from './pages'
 
 function App() {
   return (
@@ -14,7 +14,6 @@ function App() {
           <Route path='/C2' element={<C2></C2>}></Route>
           <Route path='/C3' element={<C3></C3>}></Route>
           <Route path='/C4' element={<C4></C4>}></Route>
-          <Route path='/C41' element={<C41></C41>}></Route>
           <Route path='/C5' element={<C5></C5>}></Route>
           <Route path='/C6' element={<C6></C6>}></Route>
           <Route path='/C7' element={<C7></C7>}></Route>

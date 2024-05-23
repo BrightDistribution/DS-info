@@ -34,6 +34,10 @@ import RemoteHome from './RemoteHome.jpg';
 import ArrowDown from './ArrowDown.svg';
 import InstalType from './InstalType.jpg';
 import set_time from './set_time.jpg';
+import Ether_con from './Ether_con.svg';
+import Power_con from './Power_con.svg';
+import Power from './Power.svg';
+
 
 export {
     Cp1,
@@ -72,6 +76,9 @@ export {
     ArrowDown,
     InstalType,
     set_time,
+    Ether_con,
+    Power_con,
+    Power,
 }
 
 

@@ -16,11 +16,13 @@ function D8() {
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px] my-[20px] ml-[20px]">Introduceti ca Server Adress: ds4.dsaas.ro, si selectati SAVE.</p>
+          <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px]">Introduceti ca Server Adress:</p>
+          <div className='my-[10px] font-semibold text-lg'>ds4.dsaas.ro</div>
+          <div className='mb-[10px]'>Selectati SAVE</div>
           <img src={ConServ} alt="Remote" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
         </header>
 
-        <p className="my-[30px]">Daca este deja introdusa contactati-ne!<br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
+        <p className="my-[30px]">Contactati-ne pentru confirmare la numarul:<br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
 
 
         <div className='flex flex-row'>

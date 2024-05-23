@@ -5,8 +5,9 @@
 @tailwind utilities;
 
 :root {
-  background-color: #011F4B;
-  color: #f0f8ff;
+  background-color: #89CFF0;
+  color: #011F4B;
+  font-size: large;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: semibold;
   --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
@@ -22,8 +23,8 @@ body {
 
 
 .buttonS {
-  background-color: #ADD8E6;
-  color: #011F4B;
+  background-color: #011F4B;
+  color: #89CFF0;
   font-weight: bold;
   transition: ease-in-ou 0.3s;
 }

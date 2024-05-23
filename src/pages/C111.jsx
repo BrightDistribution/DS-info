@@ -7,8 +7,9 @@ function C111() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pasul 13</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-1">In pagina de "Set Current Time" vom selecta butonul "Next"</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-1">In pagina de "Set Current Time" nu modificam nimic si vom selecta butonul "Next"</p>
           <img src={set_time} alt="Cp11" className='max-w-[360px] max-h-[500px]' />
         </header>
 
