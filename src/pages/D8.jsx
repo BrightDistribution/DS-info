@@ -15,6 +15,7 @@ function D8() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pas final</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px]">Introduceti ca Server Adress:</p>
           <div className='my-[10px] font-semibold text-lg'>ds4.dsaas.ro</div>

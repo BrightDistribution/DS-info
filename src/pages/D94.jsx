@@ -31,6 +31,7 @@ function D94() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pasul 5</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Verificati mesajul din chenarul de pe ecran si selectati de mai jos varianta care se potriveste. Dupa selectare, apasati butonul de INAINTE.</p>
           <img src={NetworkStatus} alt="internet" onClick={handleClick1} ref={inputRef1} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />

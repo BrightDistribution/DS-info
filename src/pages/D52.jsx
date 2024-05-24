@@ -15,6 +15,7 @@ function D52() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
+      <div className='flex text-xl border-b-2 border-orange-300'>Pas Final</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Router-ul nu are semnal sau nu e functional; incearca sa restartezi tot raftul. <br /> <br />Contacteaza-ne pentru asistenta.</p>
         </header>
