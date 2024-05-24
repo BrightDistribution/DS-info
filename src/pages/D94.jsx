@@ -33,7 +33,7 @@ function D94() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 5</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Verificati mesajul din chenarul de pe ecran si selectati de mai jos varianta care se potriveste. Dupa selectare, apasati butonul de INAINTE.</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Selectati unul din ecranele de mai jos potrivit situatiei dvs. Dupa selectare, apasati butonul "Inainte".</p>
           <img src={NetworkStatus} alt="internet" onClick={handleClick1} ref={inputRef1} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />
           <img src={NetworkError1} alt="No internet" onClick={handleClick2} ref={inputRef2} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />
         </header>

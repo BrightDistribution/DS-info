@@ -9,7 +9,7 @@ function C4() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 5</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">In pagina "Installation Type" vom selecta "Basic Setup".</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La "Installation Type" selectati "Basic Setup".</p>
           <img src={InstalType} alt="InstalType" className='max-w-[360px] max-h-[500px]' />
         </header>
 

@@ -15,7 +15,7 @@ function D8() {
     <div>
       <a href="/Home" className='flex flex-row items-center'><img src={lineLogo} alt="Line Logo" /> <span className='font-semibold homeB'>ACASA</span></a>
       <div className="flex flex-col items-center">
-      <div className='flex text-xl border-b-2 border-orange-300'>Pas final</div>
+      <div className='flex text-xl border-b-2 border-orange-300'>Pas Final</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px]">Introduceti ca Server Adress:</p>
           <div className='my-[10px] font-semibold text-lg'>ds4.dsaas.ro</div>
@@ -23,7 +23,8 @@ function D8() {
           <img src={ConServ} alt="Remote" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
         </header>
 
-        <p className="my-[30px]">Contactati-ne pentru confirmare la numarul:<br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
+        <div className="mt-[30px]">Contactati-ne pentru confirmare la numarul:</div>
+        <a href="tel:+40215394507" className='mb-[30px] text-lg font-semibold border-2 border-orange-300'>+40215394507</a>
 
 
         <div className='flex flex-row'>

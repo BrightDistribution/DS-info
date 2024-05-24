@@ -9,7 +9,7 @@ function C5() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 6</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-2">Pentru meniul de “Display Orientation” ,vom alege “AUTO”, daca nu exista aceasta optiune alegem varianta potrivita pozitionarii ecranului</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-2">La “Display Orientation”, selectati “AUTO”; daca nu exista aceasta optiune alegeti varianta potrivita pozitionarii ecranului</p>
           <img src={Cp5} alt="Cp5" className='max-w-[360px] max-h-[500px]' />
         </header>
 

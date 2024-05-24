@@ -31,7 +31,7 @@ function C13() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 15</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La finalizarea configurarii, unul din urmatoarele ecrane va aparea. Selectati ecranul care se potriveste cu situatia si apasati inainte pentru pasul urmator.</p>
+          <p className="flex xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La finalizarea configurarii,va aparea unul din urmatoarele ecrane. Selectati ecranul care se potriveste cu situatia dvs. si apasati butonul "Inainte" pentru pasul urmator.</p>
           <img src={Cp14} alt="internet" onClick={handleClick1} ref={inputRef1} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />
           <img src={Cp13} alt="No internet" onClick={handleClick2} ref={inputRef2} className='xs:w-[320px] ss:w-[425px] max-h-[500px] p-2' />
         </header>

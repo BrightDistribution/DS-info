@@ -9,7 +9,7 @@ function C10() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 11</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pe aceasta pagina selectam “Next”</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pe aceasta pagina selectati “Next”</p>
           <img src={Cp10} alt="Cp10" className='max-w-[360px] max-h-[500px]' />
         </header>
 

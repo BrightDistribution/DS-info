@@ -9,14 +9,14 @@ function C0() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 1</div>
         <header className='flex flex-col items-center'>
-          <div className='flex justify-center xs:max-w-[320px] sm:max-w-[600px] lg:max-w-[1150px]'>Pentru Navigarea meniului vom folosi</div>
+          <div className='flex justify-center xs:max-w-[320px] sm:max-w-[600px] lg:max-w-[1150px]'>Pentru Navigarea meniului folositi</div>
           <div className='text-red-600'>SAGETILE</div>
-          <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]'>si pentru a selecta vom folosi tasta</div>
+          <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]'>si pentru a selecta folositi tasta</div>
           <div className='text-green-600'>ENTER</div>
           <div className='xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]'>Folositi butonul de Power pentru a porni ecranul.</div>
           <img src={Power} alt="Power" className='w-6 h-6 mb-[5px]' />
         </header>
-        
+
         <img src={Remote2} alt="Remote" className='max-w-[360px] max-h-[500px]' />
 
         <div className='flex flex-row'>

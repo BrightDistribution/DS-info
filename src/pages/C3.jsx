@@ -9,7 +9,7 @@ function C3() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 4</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pentru notificari privind  confidentialitatea vom selecta “OK”</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La notificari privind  confidentialitatea selectati “OK”</p>
           <img src={Cp4} alt="Cp4" className='max-w-[360px] max-h-[500px]' />
         </header>
 

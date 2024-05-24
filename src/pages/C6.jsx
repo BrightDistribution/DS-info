@@ -9,7 +9,7 @@ function C6() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 7</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-1">In meniul “Player Selection” alegem optiunea “MagicINFO S Player si o vom selecta”</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] mb-1">La “Player Selection” selectati  “MagicINFO S Player" </p>
           <img src={Cp6} alt="Cp6" className='max-w-[360px] max-h-[500px]' />
         </header>
 

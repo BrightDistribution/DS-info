@@ -17,7 +17,7 @@ function Home(){
             <header className="flex flex-col items-center">
                 <img src={Logo} alt="Logo" />
                 <p className="flex justify-center my-[10px] xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">
-                    Alegeti mai jos daca CONFIGURATI un ecran sau DIAGNOSTICATI un ecran nefunctional
+                    Alegeti butonul potrivit operatiei pe care trebuie sa o faceti
                 </p>
             </header>
 

@@ -9,7 +9,7 @@ function C12() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 14</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">NU vom seta un pin. Trecem peste acest pas prin a selecta butonul "Next"</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">NU setati niciun pin. Treceti peste acest pas, selectati "Next"</p>
           <img src={Cp12} alt="Cp12" className='max-w-[360px] max-h-[500px]' />
         </header>
 

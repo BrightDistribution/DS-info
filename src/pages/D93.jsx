@@ -10,7 +10,8 @@ function C93() {
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 10</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px] my-[10px]">Pentru a afla parola pentru WI-FI contacteaza-ne la numarul de mai jos.</p>
-          <p className="my-[30px]">Telefon suport: <br /><a href="tel:+40215394507"><span className="spectext">+40215394507</span></a></p>
+          <p className="mt-[30px]">Telefon suport:</p>
+          <a href="tel:+40215394507" className='mb-[30px] text-lg font-semibold border-2 border-orange-300'>+40215394507</a>
         </header>
 
         <div className='flex flex-row'>
