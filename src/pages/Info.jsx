@@ -16,7 +16,7 @@ function Info(){
             <p className="mt-[10px]">Denumire WI-FI: </p>
             <div className="mb-[10px] text-lg font-semibold border-2 border-orange-300">TP-Link_BDA4</div>
             <p className="mt-[10px]">Adresa Server: </p>
-            <div className="mb-[10px] text-lg font-semibold border-2 border-orange-300">ds4.dsaas.ro</div>
+            <div className="mb-[10px] text-lg font-semibold border-2 border-orange-300">ds5.dsaas.ro</div>
             <p className="mt-[10px]">Telefon suport: </p>
             <a href="tel:+40215394507" className="mb-[10px] text-lg font-semibold border-2 border-orange-300">+40215394507</a>
 

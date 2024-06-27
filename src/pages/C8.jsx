@@ -9,7 +9,7 @@ function C8() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 9</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Stergeti adresa curenta si introduceti adresa “ds4.dsaas.ro”. Dupa introducere selectati butonul "Go" de pe tastatura aparuta pe ecran</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Stergeti adresa curenta si introduceti adresa “ds5.dsaas.ro”. Dupa introducere selectati butonul "Go" de pe tastatura aparuta pe ecran</p>
           <img src={Cp8} alt="Cp8" className='max-w-[360px] max-h-[500px]' />
         </header>
 

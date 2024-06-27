@@ -18,7 +18,7 @@ function D8() {
       <div className='flex text-xl border-b-2 border-orange-300'>Pas Final</div>
         <header className='flex flex-col items-center'>
           <p className="flex justify-center xs:w-[320px] ss:w-[425px] sm:max-w-[600px] lg:max-w-[1150px]">Introduceti ca Server Adress:</p>
-          <div className='my-[10px] font-semibold text-lg'>ds4.dsaas.ro</div>
+          <div className='my-[10px] font-semibold text-lg'>ds5.dsaas.ro</div>
           <div className='mb-[10px]'>Selectati SAVE</div>
           <img src={ConServ} alt="Remote" className='xs:w-[320px] ss:w-[425px] max-h-[500px]' />
         </header>
