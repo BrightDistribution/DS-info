@@ -9,7 +9,7 @@ function C7() {
       <div className="flex flex-col items-center">
       <div className='flex text-xl border-b-2 border-orange-300'>Pasul 8</div>
         <header className='flex flex-col items-center'>
-          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">La conectarea la server selectati “Server Adress”</p>
+          <p className="flex justify-center xs:max-w-[300px] sm:max-w-[600px] lg:max-w-[1150px]">Pentru conectarea la server selectati “Server Adress”</p>
           <img src={Cp7} alt="Cp7" className='max-w-[360px] max-h-[500px]' />
         </header>
 
